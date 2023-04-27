@@ -114,5 +114,89 @@
 ;(predict-observable-action ?entradalbd "UpdateTable" (eval cambio_signo -20) )
 (cambio_signo -20)
 
+; regla para evaluar si es una ecuacion solventable
+
+(defrule solvable-equation
+    (equation (?x ?operator ?const))
+    (test (or (eq ?operator +)
+              (eq ?operator -)))
+    =>
+    (assert (solvable)))
+
+ ;evaluar la respuesta de los usuarios y dar su opinión   
+
+ (defrule evaluate-response
+    (response (user ?answer))
+    (equation (?x ?operator ?const))
+    (solvable)
+    =>
+    (if (eq ?operator +)
+        (if (eq ?answer (- ?const ?x))
+            (assert (correct))
+            (assert (incorrect)))
+        (if (eq ?answer (+ ?const ?x))
+            (assert (correct))
+            (assert (incorrect)))))
+
+;Función para simplificar expresiones algebraicas
+(deffunction simplify-expression (?expression)
+    (bind ?expression (replace ?expression " " ""))
+    (while (re-search-forward "([+-]?\\d*)\\*?x" ?expression nil)
+        (bind ?coeff (str-to-int (match-string 1)))
+        (if (eq ?coeff 0)
+            (bind ?expression (replace ?expression (match-string 0) "0"))
+            (if (eq ?coeff 1)
+                (bind ?expression (replace ?expression (match-string 0) "x"))
+                (if (eq ?coeff -1)
+                    (bind ?expression (replace ?expression (match-string 0) "-x"))
+                    (bind ?expression (replace ?expression (match-string 0) (* ?coeff "x")))))))
+    (bind ?expression (replace ?expression "^1" ""))
+    (bind ?expression (replace ?expression "^+" "+"))
+    (bind ?expression (replace ?expression "^-" "-"))
+    ?expression)
+
+; Estas reglas y funciones pueden integrarse en los componentes de CTAT para crear un sistema de tutoría inteligente
+; que guíe al usuario en el proceso de resolución de ecuaciones de primer grado. Por ejemplo, la regla de ecuación resoluble
+; se puede utilizar para determinar si una ecuación dada es resoluble, y la regla de evaluación de respuesta puede evaluar la 
+; respuesta del usuario y proporcionar información. La función simplificar-expresión puede utilizarse para simplificar las expresiones
+; algebraicas de las ecuaciones.
+
+; detectar la variable x
+(defrule detect-x-variable
+    (field ?field)
+    (test (str-index (str-upcase ?field) "X"))
+    =>
+    (assert (x-variable-detected)))
+
+; para detectar expresiones regulares
+(defrule syntax-error
+    (response (user ?answer))
+    (test (not (eq ?answer "")))
+    (test (not (matches ?answer "^[a-zA-Z0-9+*/()-]+$")))
+    =>
+    (assert (feedback "Syntax Error: Please enter a valid equation.")))
+
+(deftemplate fraccion
+  (slot valor (type float)))
+  
+(deftemplate MAIN::Resultado
 
 
+; para verificar si la division de la fraccion es encuentran
+(defrule verificar-fraccion
+  (declare (salience 10))
+  (fraccion (valor ?fraccion))
+  (test (str-compare ?fraccion ".[0-9]+/[0-9]+."))
+  =>
+  (bind ?numerador (substring ?fraccion 0 (str-index ?fraccion "/")))
+  (bind ?denominador (substring ?fraccion (+ 1 (str-index ?fraccion "/"))))
+  (if (eq ?denominador 0)
+      then
+      (assert (resultado "Indefinido")))
+  (else
+      (bind ?division (/ ?numerador ?denominador))
+      (if (integerp ?division)
+          then
+          (assert (resultado ?division))
+          else
+          (assert (resultado "No entero")))))
