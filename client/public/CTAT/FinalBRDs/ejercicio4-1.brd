@@ -652,176 +652,88 @@
         <text>state12</text>
         <uniqueID>13</uniqueID>
         <dimension>
-            <x>526</x>
-            <y>140</y>
+            <x>505</x>
+            <y>156</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state13</text>
         <uniqueID>14</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>250</y>
+            <x>450</x>
+            <y>267</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state14</text>
         <uniqueID>15</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>360</y>
+            <x>450</x>
+            <y>377</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state15</text>
         <uniqueID>16</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>470</y>
+            <x>462</x>
+            <y>487</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state16</text>
         <uniqueID>17</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>580</y>
+            <x>462</x>
+            <y>597</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state17</text>
         <uniqueID>18</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>690</y>
+            <x>462</x>
+            <y>707</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state18</text>
         <uniqueID>19</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>800</y>
+            <x>462</x>
+            <y>817</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state19</text>
         <uniqueID>20</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>910</y>
+            <x>462</x>
+            <y>927</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state20</text>
         <uniqueID>21</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>1020</y>
+            <x>462</x>
+            <y>1037</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state21</text>
         <uniqueID>22</uniqueID>
         <dimension>
-            <x>480</x>
-            <y>1130</y>
+            <x>462</x>
+            <y>1147</y>
         </dimension>
     </node>
     <node locked="false" doneState="true">
         <text>Done</text>
         <uniqueID>23</uniqueID>
         <dimension>
-            <x>487</x>
-            <y>1240</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state23</text>
-        <uniqueID>24</uniqueID>
-        <dimension>
-            <x>328</x>
-            <y>121</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state24</text>
-        <uniqueID>25</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>238</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state25</text>
-        <uniqueID>26</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>348</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state26</text>
-        <uniqueID>27</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>458</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state27</text>
-        <uniqueID>28</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>568</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state28</text>
-        <uniqueID>29</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>678</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state29</text>
-        <uniqueID>30</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>788</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state30</text>
-        <uniqueID>31</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>898</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state31</text>
-        <uniqueID>32</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>1008</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state32</text>
-        <uniqueID>33</uniqueID>
-        <dimension>
-            <x>343</x>
-            <y>1118</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="true">
-        <text>Done_2</text>
-        <uniqueID>34</uniqueID>
-        <dimension>
-            <x>342</x>
-            <y>1228</y>
+            <x>469</x>
+            <y>1257</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -833,179 +745,123 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state35</text>
-        <uniqueID>36</uniqueID>
+        <text>state59</text>
+        <uniqueID>60</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>233</y>
+            <x>230</x>
+            <y>297</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state36</text>
-        <uniqueID>37</uniqueID>
+        <text>state60</text>
+        <uniqueID>61</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>343</y>
+            <x>229</x>
+            <y>400</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state37</text>
-        <uniqueID>38</uniqueID>
+        <text>state61</text>
+        <uniqueID>62</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>453</y>
+            <x>288</x>
+            <y>477</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state38</text>
-        <uniqueID>39</uniqueID>
+        <text>state62</text>
+        <uniqueID>63</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>563</y>
+            <x>288</x>
+            <y>587</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state39</text>
-        <uniqueID>40</uniqueID>
+        <text>state63</text>
+        <uniqueID>64</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>673</y>
+            <x>288</x>
+            <y>697</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state40</text>
-        <uniqueID>41</uniqueID>
+        <text>state64</text>
+        <uniqueID>65</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>783</y>
+            <x>288</x>
+            <y>807</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state41</text>
-        <uniqueID>42</uniqueID>
+        <text>state65</text>
+        <uniqueID>66</uniqueID>
         <dimension>
-            <x>672</x>
-            <y>893</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state42</text>
-        <uniqueID>43</uniqueID>
-        <dimension>
-            <x>672</x>
-            <y>1003</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state43</text>
-        <uniqueID>44</uniqueID>
-        <dimension>
-            <x>672</x>
-            <y>1113</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state44</text>
-        <uniqueID>45</uniqueID>
-        <dimension>
-            <x>672</x>
-            <y>1223</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state45</text>
-        <uniqueID>46</uniqueID>
-        <dimension>
-            <x>672</x>
-            <y>1333</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state46</text>
-        <uniqueID>47</uniqueID>
-        <dimension>
-            <x>672</x>
-            <y>1443</y>
+            <x>288</x>
+            <y>917</y>
         </dimension>
     </node>
     <node locked="false" doneState="true">
-        <text>Done_3</text>
-        <uniqueID>48</uniqueID>
+        <text>Done_5</text>
+        <uniqueID>67</uniqueID>
         <dimension>
-            <x>671</x>
-            <y>1553</y>
+            <x>287</x>
+            <y>1027</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state50</text>
-        <uniqueID>51</uniqueID>
+        <text>state69</text>
+        <uniqueID>70</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>1548</y>
+            <x>784</x>
+            <y>179</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state51</text>
-        <uniqueID>52</uniqueID>
+        <text>state70</text>
+        <uniqueID>71</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>1658</y>
+            <x>286</x>
+            <y>159</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state52</text>
-        <uniqueID>53</uniqueID>
+        <text>state71</text>
+        <uniqueID>72</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>1768</y>
+            <x>272</x>
+            <y>22</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state53</text>
-        <uniqueID>54</uniqueID>
+        <text>state72</text>
+        <uniqueID>73</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>1878</y>
+            <x>268</x>
+            <y>87</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state54</text>
-        <uniqueID>55</uniqueID>
+        <text>state73</text>
+        <uniqueID>74</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>1988</y>
+            <x>258</x>
+            <y>194</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state55</text>
-        <uniqueID>56</uniqueID>
+        <text>state74</text>
+        <uniqueID>75</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>2098</y>
+            <x>564</x>
+            <y>89</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state56</text>
-        <uniqueID>57</uniqueID>
+        <text>state75</text>
+        <uniqueID>76</uniqueID>
         <dimension>
-            <x>748</x>
-            <y>2208</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state57</text>
-        <uniqueID>58</uniqueID>
-        <dimension>
-            <x>748</x>
-            <y>2318</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="true">
-        <text>Done_4</text>
-        <uniqueID>59</uniqueID>
-        <dimension>
-            <x>747</x>
-            <y>2428</y>
+            <x>696</x>
+            <y>250</y>
         </dimension>
     </node>
     <edge>
@@ -1037,7 +893,7 @@
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
+            <checkedStatus>NO-MODEL</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
                 <matcherParameter name="selection">ctatdiv12</matcherParameter>
@@ -1127,7 +983,6 @@
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>realice la operacon apropiada</hintMessage>
-            <hintMessage>Please enter '+7' in the highlighted field.</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1173,7 +1028,7 @@
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor correspondiente</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1265,9 +1120,7 @@
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, realice el despeje,
-el producto pasa al otro lado a dividir</hintMessage>
-            <hintMessage>Ingrese  'X'</hintMessage>
+            <hintMessage>Ingrese el valor X</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1313,8 +1166,7 @@ el producto pasa al otro lado a dividir</hintMessage>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>divida los valores</hintMessage>
-            <hintMessage>Please enter '9/9' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor correspondiente</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1360,8 +1212,7 @@ el producto pasa al otro lado a dividir</hintMessage>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, si es posible la division con un resultado entero</hintMessage>
-            <hintMessage>Please enter 'x' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor X</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1407,7 +1258,7 @@ el producto pasa al otro lado a dividir</hintMessage>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el resultado obtenido</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1453,7 +1304,7 @@ el producto pasa al otro lado a dividir</hintMessage>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el resultado obtenido</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1499,7 +1350,7 @@ el producto pasa al otro lado a dividir</hintMessage>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please click on the highlighted button.</hintMessage>
+            <hintMessage>De clic en el bot&#243;n Hecho</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1526,519 +1377,6 @@ el producto pasa al otro lado a dividir</hintMessage>
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>45</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>2e4291fc-eee3-922e-d80d-477a8142482c</transaction_id>
-                    <Selection>
-                        <value>ctatdiv14</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>9x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Despeje los parentesis, multiplicando el valor por los contenidos entre parentesis</hintMessage>
-            <hintMessage>a(b+c) =a*b + a*c</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv14</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>1</sourceID>
-        <destID>24</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>47</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>2d2af6da-708f-f032-8e1f-57950b89bf3a</transaction_id>
-                    <Selection>
-                        <value>ctatdiv18</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>2</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Despeje los parentesis, multiplicando el valor por los contenidos entre parentesis</hintMessage>
-            <hintMessage>a(b+c) =a*b + a*c</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv18</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">2</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>24</sourceID>
-        <destID>25</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>49</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>9f51f443-f671-78de-4d05-b5dd6689b771</transaction_id>
-                    <Selection>
-                        <value>ctatdiv22</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>+7</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>realice la operacon apropiada</hintMessage>
-            <hintMessage>Please enter '+7' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv22</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">+7</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>25</sourceID>
-        <destID>26</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>51</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>98cca368-1f3a-7b89-9ca2-c887d7816e97</transaction_id>
-                    <Selection>
-                        <value>ctatdiv49</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>9x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv49</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>26</sourceID>
-        <destID>27</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>53</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>a4c64576-47bd-094a-2ce2-ac38ac8a6761</transaction_id>
-                    <Selection>
-                        <value>ctatdiv65</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>9</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>realice la operacion de los terminos independientes</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv65</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>27</sourceID>
-        <destID>28</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>55</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>3dbb70c7-f1c7-2dd5-96dc-a8573cdbbfdb</transaction_id>
-                    <Selection>
-                        <value>ctatdiv53</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, realice el despeje,
-el producto pasa al otro lado a dividir</hintMessage>
-            <hintMessage>Ingrese  'X'</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv53</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>28</sourceID>
-        <destID>29</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>57</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>16c6be77-21ef-6e88-6517-5a2e7913b698</transaction_id>
-                    <Selection>
-                        <value>ctatdiv69</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>9/9</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>divida los valores</hintMessage>
-            <hintMessage>Please enter '9/9' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv69</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9/9</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>29</sourceID>
-        <destID>30</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>59</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>e7792cd4-ed86-2964-d836-430a91cf9269</transaction_id>
-                    <Selection>
-                        <value>ctatdiv57</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, si es posible la division con un resultado entero</hintMessage>
-            <hintMessage>Please enter 'x' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv57</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>30</sourceID>
-        <destID>31</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>61</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>1f3bbe01-b329-7a61-498c-4b8cc19a491a</transaction_id>
-                    <Selection>
-                        <value>ctatdiv73</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv73</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>31</sourceID>
-        <destID>32</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>63</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>3beaf541-ce43-60f1-7de7-7207c66aac3f</transaction_id>
-                    <Selection>
-                        <value>ctatdiv130</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv130</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>32</sourceID>
-        <destID>33</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>65</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>7802d9b9-9404-37b2-0ef3-e6225e8c087f</transaction_id>
-                    <Selection>
-                        <value>done</value>
-                    </Selection>
-                    <Action>
-                        <value>ButtonPressed</value>
-                    </Action>
-                    <Input>
-                        <value>-1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please click on the highlighted button.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">done</matcherParameter>
-                <matcherParameter name="action">ButtonPressed</matcherParameter>
-                <matcherParameter name="input">-1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>33</sourceID>
-        <destID>34</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
             <uniqueID>67</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
@@ -2056,9 +1394,7 @@ el producto pasa al otro lado a dividir</hintMessage>
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>operacion esta incorrecta
-revisar la propiedad distributiva
-2(1x)=2x</buggyMessage>
+            <buggyMessage>Error:revisar la propiedad distributiva.</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please enter '9' in the highlighted field.</hintMessage>
             <callbackFn></callbackFn>
@@ -2073,7 +1409,7 @@ revisar la propiedad distributiva
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
-        <preCheckedStatus>Never Checked</preCheckedStatus>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text>unnamed</text>
             <indicator>-1</indicator>
@@ -2083,99 +1419,39 @@ revisar la propiedad distributiva
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>69</uniqueID>
+            <uniqueID>118</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>2f06d77c-d68c-4c90-ee5e-e73eafe85a97</transaction_id>
+                    <transaction_id>8612c6d4-576c-358a-3476-8ad2c79438a7</transaction_id>
                     <Selection>
-                        <value>ctatdiv14</value>
+                        <value>ctatdiv22</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>+3x</value>
+                        <value>-7</value>
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>no es correcto con la accion anterior</buggyMessage>
+            <buggyMessage>Error: No debe cambiar el signo</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '3x' in the highlighted field.</hintMessage>
+            <hintMessage>Please enter '-7' in the highlighted field.</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Fireable Buggy Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">ctatdiv14</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateTextField</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">+3x</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>35</sourceID>
-        <destID>36</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>71</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>930be70b-db0e-8fcc-9090-517f5e6f4e24</transaction_id>
-                    <Selection>
-                        <value>ctatdiv18</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>2</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '2' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv18</matcherParameter>
+                <matcherParameter name="selection">ctatdiv22</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">2</matcherParameter>
+                <matcherParameter name="input">-7</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2184,8 +1460,8 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>36</sourceID>
-        <destID>37</destID>
+        <sourceID>14</sourceID>
+        <destID>60</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2193,12 +1469,12 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>73</uniqueID>
+            <uniqueID>120</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>5c9c9fdc-76e4-0650-100e-9a1b7d0fec0a</transaction_id>
+                    <transaction_id>ea52b6ed-26fa-37e8-88ce-0de46b0f3cfd</transaction_id>
                     <Selection>
                         <value>ctatdiv22</value>
                     </Selection>
@@ -2212,7 +1488,7 @@ revisar la propiedad distributiva
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '+7' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor correspondiente</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2230,298 +1506,23 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>37</sourceID>
-        <destID>38</destID>
+        <sourceID>60</sourceID>
+        <destID>15</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>75</uniqueID>
+            <uniqueID>122</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>668dcb6b-f867-deb3-3430-d69c11641d87</transaction_id>
+                    <transaction_id>e858c8b4-bc84-a144-12ce-4d6480c085e8</transaction_id>
                     <Selection>
                         <value>ctatdiv33</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>3x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No es correcto con la acci&#242;n anterior</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '3x' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv33</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">3x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>38</sourceID>
-        <destID>39</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>77</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>59fd40ef-556a-0ede-3ef0-18ffd1f27c2c</transaction_id>
-                    <Selection>
-                        <value>ctatdiv65</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>2</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No esta dentro del proceso</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '2' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv65</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">2</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>39</sourceID>
-        <destID>40</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>79</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>d7e948ce-c01d-c5fd-bb9d-883283cbdb88</transaction_id>
-                    <Selection>
-                        <value>ctatdiv81</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>+7</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No esta dentro del proceso</buggyMessage>
-            <successMessage></successMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv81</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">+7</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>40</sourceID>
-        <destID>41</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>81</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>db8090ef-c66b-18a3-e20f-a0b1b1270649</transaction_id>
-                    <Selection>
-                        <value>ctatdiv97</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>-9</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No es correcto este proceso</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '-9' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv97</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">-9</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>41</sourceID>
-        <destID>42</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>83</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>3247c03d-67b0-c3f2-1461-5dbd473bc1a8</transaction_id>
-                    <Selection>
-                        <value>ctatdiv37</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>3x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>Es incorrecto el proceso</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '3x' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv37</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">3x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>42</sourceID>
-        <destID>43</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>85</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>a38bd584-e321-1c17-f594-1bd86dd025b3</transaction_id>
-                    <Selection>
-                        <value>ctatdiv69</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>0</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>Resultado incorrecto</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '0' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv69</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">0</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>43</sourceID>
-        <destID>44</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>87</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>af9227d6-d1db-b085-5c0a-1959b3ef4614</transaction_id>
-                    <Selection>
-                        <value>ctatdiv41</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
@@ -2531,16 +1532,17 @@ revisar la propiedad distributiva
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>No esta dentro del proceso</buggyMessage>
+            <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter 'x' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor X</hintMessage>
+            <hintMessage>Correcto,la constante pasa al otro lado a dividir</hintMessage>
             <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
+            <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv41</matcherParameter>
+                <matcherParameter name="selection">ctatdiv33</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
                 <matcherParameter name="input">x</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
@@ -2551,8 +1553,8 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>44</sourceID>
-        <destID>45</destID>
+        <sourceID>15</sourceID>
+        <destID>62</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2560,35 +1562,35 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>89</uniqueID>
+            <uniqueID>124</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>618930a4-2147-12d7-8b67-1de809b695c1</transaction_id>
+                    <transaction_id>f7409d3f-1c6f-43ed-1b37-e5f6bb62bab5</transaction_id>
                     <Selection>
-                        <value>ctatdiv73</value>
+                        <value>ctatdiv65</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>0/3</value>
+                        <value>9/9</value>
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>Resultado incorrecto</buggyMessage>
+            <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '0/3' in the highlighted field.</hintMessage>
+            <hintMessage>Evalue la ecuaci&#242;n, si es posible la division con un resultado entero</hintMessage>
             <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
+            <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv73</matcherParameter>
+                <matcherParameter name="selection">ctatdiv65</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">0/3</matcherParameter>
+                <matcherParameter name="input">9/9</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2597,8 +1599,8 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>45</sourceID>
-        <destID>46</destID>
+        <sourceID>62</sourceID>
+        <destID>63</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2606,12 +1608,104 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>91</uniqueID>
+            <uniqueID>126</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>8180de36-4825-4fd5-156d-40d4ce916512</transaction_id>
+                    <transaction_id>315518ac-22f3-c30d-1cb3-df01c166976e</transaction_id>
+                    <Selection>
+                        <value>ctatdiv37</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateTextField</value>
+                    </Action>
+                    <Input>
+                        <value>x</value>
+                    </Input>
+                </properties>
+            </message>
+            <buggyMessage>No, this is not correct.</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Ingrese el valor X</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matcher>
+                <matcherType>ExactMatcher</matcherType>
+                <matcherParameter name="selection">ctatdiv37</matcherParameter>
+                <matcherParameter name="action">UpdateTextField</matcherParameter>
+                <matcherParameter name="input">x</matcherParameter>
+                <matcherParameter name="actor">Student</matcherParameter>
+            </matcher>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>63</sourceID>
+        <destID>64</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>128</uniqueID>
+            <message>
+                <verb>NotePropertySet</verb>
+                <properties>
+                    <MessageType>InterfaceAction</MessageType>
+                    <transaction_id>21158525-f7cb-d833-13a2-4b5203fd886b</transaction_id>
+                    <Selection>
+                        <value>ctatdiv69</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateTextField</value>
+                    </Action>
+                    <Input>
+                        <value>1</value>
+                    </Input>
+                </properties>
+            </message>
+            <buggyMessage>No, this is not correct.</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Ingrese el resultado obtenido</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matcher>
+                <matcherType>ExactMatcher</matcherType>
+                <matcherParameter name="selection">ctatdiv69</matcherParameter>
+                <matcherParameter name="action">UpdateTextField</matcherParameter>
+                <matcherParameter name="input">1</matcherParameter>
+                <matcherParameter name="actor">Student</matcherParameter>
+            </matcher>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>64</sourceID>
+        <destID>65</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>130</uniqueID>
+            <message>
+                <verb>NotePropertySet</verb>
+                <properties>
+                    <MessageType>InterfaceAction</MessageType>
+                    <transaction_id>7a17e45d-9b18-bba0-4e5a-aaae342aad74</transaction_id>
                     <Selection>
                         <value>ctatdiv130</value>
                     </Selection>
@@ -2619,22 +1713,22 @@ revisar la propiedad distributiva
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>0</value>
+                        <value>1</value>
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>Resultado incorrecto</buggyMessage>
+            <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '0' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el resultado obtenido</hintMessage>
             <callbackFn></callbackFn>
-            <actionType>Fireable Buggy Action</actionType>
+            <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
                 <matcherParameter name="selection">ctatdiv130</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">0</matcherParameter>
+                <matcherParameter name="input">1</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2643,21 +1737,21 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>46</sourceID>
-        <destID>47</destID>
+        <sourceID>65</sourceID>
+        <destID>66</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>93</uniqueID>
+            <uniqueID>132</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>0767cac3-6059-4a83-de7f-7c0ce6cccebd</transaction_id>
+                    <transaction_id>57c7f63a-a704-d450-d080-d2a3cb291cbe</transaction_id>
                     <Selection>
                         <value>done</value>
                     </Selection>
@@ -2669,11 +1763,11 @@ revisar la propiedad distributiva
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>No es correcto el proceso empleado</buggyMessage>
+            <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please click on the highlighted button.</hintMessage>
+            <hintMessage>De clic en el bot&#243;n Hecho</hintMessage>
             <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
+            <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
@@ -2689,8 +1783,8 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>47</sourceID>
-        <destID>48</destID>
+        <sourceID>66</sourceID>
+        <destID>67</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2698,12 +1792,12 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>100</uniqueID>
+            <uniqueID>138</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>d2432cf1-5075-a08d-57ac-74d00f501839</transaction_id>
+                    <transaction_id>475f1d20-fcb6-4bd7-5de4-b4f48f47152e</transaction_id>
                     <Selection>
                         <value>ctatdiv12</value>
                     </Selection>
@@ -2736,8 +1830,54 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>47</sourceID>
-        <destID>51</destID>
+        <sourceID>35</sourceID>
+        <destID>13</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>140</uniqueID>
+            <message>
+                <verb>NotePropertySet</verb>
+                <properties>
+                    <MessageType>InterfaceAction</MessageType>
+                    <transaction_id>f384bb62-c8ab-212a-9575-be6fcc0efd1c</transaction_id>
+                    <Selection>
+                        <value>ctatdiv14</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateTextField</value>
+                    </Action>
+                    <Input>
+                        <value>9x</value>
+                    </Input>
+                </properties>
+            </message>
+            <buggyMessage>Error: comenzar por el primer cuadro superior</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Fireable Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matcher>
+                <matcherType>ExactMatcher</matcherType>
+                <matcherParameter name="selection">ctatdiv14</matcherParameter>
+                <matcherParameter name="action">UpdateTextField</matcherParameter>
+                <matcherParameter name="input">9x</matcherParameter>
+                <matcherParameter name="actor">Student</matcherParameter>
+            </matcher>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>1</sourceID>
+        <destID>71</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2745,14 +1885,14 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>102</uniqueID>
+            <uniqueID>142</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>5dba351a-ab75-3d51-9bff-f4c286ce50ed</transaction_id>
+                    <transaction_id>decc8a81-cfd3-8b66-1dbe-f703473c7d18</transaction_id>
                     <Selection>
-                        <value>ctatdiv33</value>
+                        <value>ctatdiv12</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
@@ -2764,9 +1904,55 @@ revisar la propiedad distributiva
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor correspondiente</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matcher>
+                <matcherType>ExactMatcher</matcherType>
+                <matcherParameter name="selection">ctatdiv12</matcherParameter>
+                <matcherParameter name="action">UpdateTextField</matcherParameter>
+                <matcherParameter name="input">9x</matcherParameter>
+                <matcherParameter name="actor">Student</matcherParameter>
+            </matcher>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>71</sourceID>
+        <destID>13</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>144</uniqueID>
+            <message>
+                <verb>NotePropertySet</verb>
+                <properties>
+                    <MessageType>InterfaceAction</MessageType>
+                    <transaction_id>a38b7b1c-6fef-b20a-1020-3125cd942b98</transaction_id>
+                    <Selection>
+                        <value>ctatdiv33</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateTextField</value>
+                    </Action>
+                    <Input>
+                        <value>9x</value>
+                    </Input>
+                </properties>
+            </message>
+            <buggyMessage>Error: comenzar por el primer cuadro superior</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Fireable Buggy Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
@@ -2782,8 +1968,8 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>51</sourceID>
-        <destID>52</destID>
+        <sourceID>1</sourceID>
+        <destID>73</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2791,35 +1977,36 @@ revisar la propiedad distributiva
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>104</uniqueID>
+            <uniqueID>146</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>45b85ef7-c223-78a1-5c89-ff7fc66203d3</transaction_id>
+                    <transaction_id>594e4b5b-bc8d-6643-eeb3-cf6c317dd475</transaction_id>
                     <Selection>
-                        <value>ctatdiv65</value>
+                        <value>ctatdiv12</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>9</value>
+                        <value>9x</value>
                     </Input>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>realice la operacion de los terminos independientes</hintMessage>
+            <hintMessage>Despeje los parentesis, multiplicando la constante por los operandos entre parentesis</hintMessage>
+            <hintMessage>a(b+c) =a*b + a*c</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv65</matcherParameter>
+                <matcherParameter name="selection">ctatdiv12</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9</matcherParameter>
+                <matcherParameter name="input">9x</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2828,46 +2015,44 @@ revisar la propiedad distributiva
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>52</sourceID>
-        <destID>53</destID>
+        <sourceID>73</sourceID>
+        <destID>13</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>106</uniqueID>
+            <uniqueID>148</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>3bc19045-4e6f-f057-aafb-b5b0fe83aefd</transaction_id>
+                    <transaction_id>3e5d0589-4816-cc37-b1ef-289f7f502595</transaction_id>
                     <Selection>
-                        <value>ctatdiv37</value>
+                        <value>ctatdiv49</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>x</value>
+                        <value>9x</value>
                     </Input>
                 </properties>
             </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
+            <buggyMessage>Error: comenzar por el primer cuadro superior</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, realice el despeje,
-el producto pasa al otro lado a dividir</hintMessage>
-            <hintMessage>Please enter 'x' in the highlighted field.</hintMessage>
+            <hintMessage>Please enter '9x' in the highlighted field.</hintMessage>
             <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
+            <actionType>Fireable Buggy Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv37</matcherParameter>
+                <matcherParameter name="selection">ctatdiv49</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">x</matcherParameter>
+                <matcherParameter name="input">9x</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2876,8 +2061,8 @@ el producto pasa al otro lado a dividir</hintMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>53</sourceID>
-        <destID>54</destID>
+        <sourceID>1</sourceID>
+        <destID>75</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -2885,35 +2070,35 @@ el producto pasa al otro lado a dividir</hintMessage>
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>108</uniqueID>
+            <uniqueID>150</uniqueID>
             <message>
                 <verb>NotePropertySet</verb>
                 <properties>
                     <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>af39a807-a204-dc2a-b06b-f4ff88b4e7fa</transaction_id>
+                    <transaction_id>54627b9c-e07c-02fe-9f38-5b891b4877df</transaction_id>
                     <Selection>
-                        <value>ctatdiv69</value>
+                        <value>ctatdiv12</value>
                     </Selection>
                     <Action>
                         <value>UpdateTextField</value>
                     </Action>
                     <Input>
-                        <value>9/9</value>
+                        <value>9x</value>
                     </Input>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please enter '9/9' in the highlighted field.</hintMessage>
+            <hintMessage>Ingrese el valor correspondiente</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
             <checkedStatus>Never Checked</checkedStatus>
             <matcher>
                 <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv69</matcherParameter>
+                <matcherParameter name="selection">ctatdiv12</matcherParameter>
                 <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">9/9</matcherParameter>
+                <matcherParameter name="input">9x</matcherParameter>
                 <matcherParameter name="actor">Student</matcherParameter>
             </matcher>
         </actionLabel>
@@ -2922,193 +2107,8 @@ el producto pasa al otro lado a dividir</hintMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>54</sourceID>
-        <destID>55</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>110</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>e3ef1ae1-d409-ab12-6530-552c4a221069</transaction_id>
-                    <Selection>
-                        <value>ctatdiv41</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>x</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Evalue la ecuaci&#242;n, si es posible la division con un resultado entero</hintMessage>
-            <hintMessage>Please enter 'x' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv41</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">x</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>55</sourceID>
-        <destID>56</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>112</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>08ea7694-0273-c4c8-27fb-573865cc90f1</transaction_id>
-                    <Selection>
-                        <value>ctatdiv73</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv73</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>56</sourceID>
-        <destID>57</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>114</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>f9d59432-1d9d-d8f7-b655-d5498e3f6da2</transaction_id>
-                    <Selection>
-                        <value>ctatdiv130</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateTextField</value>
-                    </Action>
-                    <Input>
-                        <value>1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please enter '1' in the highlighted field.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">ctatdiv130</matcherParameter>
-                <matcherParameter name="action">UpdateTextField</matcherParameter>
-                <matcherParameter name="input">1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>57</sourceID>
-        <destID>58</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>116</uniqueID>
-            <message>
-                <verb>NotePropertySet</verb>
-                <properties>
-                    <MessageType>InterfaceAction</MessageType>
-                    <transaction_id>6c8211c7-dd92-c114-cc59-a3f5e674a8b9</transaction_id>
-                    <Selection>
-                        <value>done</value>
-                    </Selection>
-                    <Action>
-                        <value>ButtonPressed</value>
-                    </Action>
-                    <Input>
-                        <value>-1</value>
-                    </Input>
-                </properties>
-            </message>
-            <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please click on the highlighted button.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Correct Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matcher>
-                <matcherType>ExactMatcher</matcherType>
-                <matcherParameter name="selection">done</matcherParameter>
-                <matcherParameter name="action">ButtonPressed</matcherParameter>
-                <matcherParameter name="input">-1</matcherParameter>
-                <matcherParameter name="actor">Student</matcherParameter>
-            </matcher>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>58</sourceID>
-        <destID>59</destID>
+        <sourceID>75</sourceID>
+        <destID>13</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <EdgesGroups ordered="true"></EdgesGroups>
